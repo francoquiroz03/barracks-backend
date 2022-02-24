@@ -1,0 +1,5 @@
+[{
+    "email":"admin@ejemplo.poc",
+    "password":"admin123",
+    "role": "ADMIN_ROLE"
+}]

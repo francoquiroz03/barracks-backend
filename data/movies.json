@@ -1,0 +1,22 @@
+[
+{
+    "title": "The Truman Show",
+    "photo": "the-truman-show.png",
+    "link": "the-truman-show"
+},
+{
+	"title":"Armageddon",
+	"photo": "armagedon.png",
+	"link":"armageddon"
+},
+{
+	"title":"Ready Player One",
+	"photo": "ready-player-one.png",
+	"link":"ready-player-one"
+},
+{
+	"title":"Arcane",
+	"photo": "arcane.png",
+	"link":"arcane"
+}
+]
